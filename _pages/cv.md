@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* BSc in GitHub, University of Chile, 2010
+* MSc in Geotechnical Engineering, 2010
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
