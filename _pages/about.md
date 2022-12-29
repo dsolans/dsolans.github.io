@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I'm David Solans and this is my personal webpage.
+Just few things about me: After graduating from the University of Chile in 2010 as Civil Engineer, BSc and MSc, Dr Solans worked in the industry a project engineer and geotechnical leader for different project related to geotechnical characterisation of soils and advanced numerical modelling for earth dams, tailings dams and underground structures. Dr Solans moved to the Department of Civil Engineering at Imperial College London in 2016 obtaining a MSc degree in Soil Mechanics and Engineering Seismology and afterwards in 2022 a PhD in Computational Geomechanics studying the seismic performance of tailings dams using the finite element method with advances constitutive models.
+
+His professional experience comprehends geotechnical characterisation of soils, slope stability analyses, and design in mining and infrastructure projects. In numerical modelling, his expertise is in tailings dams, heap leach pads, tunnels and underground civil works models in static and seismic environments.
+
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
