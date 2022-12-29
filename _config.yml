@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "David Solans"
   avatar           : "CROPPED-_LSV3775.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD in Computational Geomechanics"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=PuUfSfIAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/David-Solans"
   uri              :
   bitbucket        :
   codepen          :
