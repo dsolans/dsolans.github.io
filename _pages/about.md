@@ -13,7 +13,7 @@ Just few things about me:
 
 After graduating from the University of Chile in 2010 as Civil Engineer, BSc and MSc, I worked in the industry a project engineer and geotechnical leader for different project related to geotechnical characterisation of soils and advanced numerical modelling for earth dams, tailings dams and underground structures. In 2016, I moved to the Department of Civil Engineering at Imperial College London obtaining a MSc degree in Soil Mechanics and Engineering Seismology and afterwards in 2022 a PhD in Computational Geomechanics studying the seismic performance of tailings dams using the finite element method (ICFEP) with advances constitutive models. My current work possition is Teaching Fellow in Geotechnics at Imperial College London [Imperial webpage](https://www.imperial.ac.uk/people/david.solans16)
 
-His professional experience comprehends geotechnical characterisation of soils, slope stability analyses, and design in mining and infrastructure projects. In numerical modelling, his expertise is in tailings dams, heap leach pads, tunnels and underground civil works models in static and seismic environments.
+My professional experience comprehends geotechnical characterisation of soils, slope stability analyses, and design in mining and infrastructure projects. In numerical modelling, his expertise is in tailings dams, heap leach pads, tunnels and underground civil works models in static and seismic environments.
 
 
 
