@@ -83,12 +83,12 @@ author:
   name             : "David Solans"
   avatar           : "CROPPED-_LSV3775.png"
   bio              : "PhD in Computational Geomechanics"
-  location         : "Location"
+  location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PuUfSfIAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/David-Solans"
+  researchgate     :  "https://www.researchgate.net/profile/David-Solans"
   uri              :
   bitbucket        :
   codepen          :
