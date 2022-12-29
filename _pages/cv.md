@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* BSc in GitHub, University of Chile, 2010
-* MSc in Geotechnical Engineering, 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Civil Engineering, University of Chile, 2008
+* MSc in Geotechnical Engineering, University of Chile, 2010
+* MSc in Soil Mechanics and Engineering Seismology, Imperial College London, 2016 - 2017
+* PhD in Computational Geomechanics, Imperial College London, 2018 - 2022
 
 Work experience
 ======
