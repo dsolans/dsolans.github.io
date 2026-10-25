@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr David Solans / my personal website"
+title                    : "Dr David Solans"
 title_separator          : "-"
 name                     : &name "Dr David Solans"
-description              : &description "personal description"
+description              : &description "Dr David Solans – geotechnical engineer specialising in the seismic performance of tailings storage facilities and advanced numerical modelling."
 url                      : https://dsolans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dsolans/academicpages.github.io"
+repository               : "dsolans/dsolans.github.io"
 teaser                   : "CROPPED-_LSV3775.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "David Solans"
   avatar           : "CROPPED-_LSV3775.png"
-  bio              : "PhD in Computational Geomechanics"
-  location         : "London, UK"
-  employer         : "https://www.imperial.ac.uk/"
+  bio              : "Senior Geotechnical Engineer · PhD, Imperial College London"
+  location         : "Santiago, Chile"
+  employer         : "WSP Chile"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PuUfSfIAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7288-3418"
+  orcid            : "https://orcid.org/0000-0002-7288-3418"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
