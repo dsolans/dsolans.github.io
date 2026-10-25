@@ -35,7 +35,10 @@ Work experience
 
 Before my PhD, I spent about eight years in industry on geotechnical characterisation and advanced numerical modelling of tailings storage facilities, earth dams and underground infrastructure. This included tailings projects in Chile and Peru and the extension of Santiago Metro Lines 3 and 6.
 
-See [Professional experience](/experience/) for a list of selected projects.
+Selected projects
+------
+
+{% include experience-list.md %}
 
 Awards
 ======
