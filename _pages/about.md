@@ -1,47 +1,41 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Dr David Solans – geotechnical engineer specialising in the seismic performance of tailings storage facilities."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I'm David Solans and this is my personal webpage.
-Just few things about me: 
+I am a geotechnical engineer specialising in the static and seismic performance of **tailings storage facilities** and in **advanced numerical modelling** of earth structures. I am currently a Senior Geotechnical Engineer at **WSP Chile**, working on mine waste projects, and I keep close research links with the Geotechnics Section at **Imperial College London**.
 
-After graduating from the University of Chile in 2010 as Civil Engineer, BSc and MSc, I worked in the industry a project engineer and geotechnical leader for different project related to geotechnical characterisation of soils and advanced numerical modelling for earth dams, tailings dams and underground structures. In 2016, I moved to the Department of Civil Engineering at Imperial College London obtaining a MSc degree in Soil Mechanics and Engineering Seismology and afterwards in 2022 a PhD in Computational Geomechanics studying the seismic performance of tailings dams using the finite element method (ICFEP) with advances constitutive models. My current work possition is Teaching Fellow in Geotechnics at Imperial College London [Imperial webpage](https://www.imperial.ac.uk/people/david.solans16)
+I graduated as a Civil Engineer, with an MSc in Geotechnical Engineering, from the **University of Chile** (2010). I then spent about eight years in industry as a project engineer and geotechnical leader, working on geotechnical characterisation and numerical modelling of earth dams, tailings storage facilities and underground infrastructure in Chile and Peru.
 
-My professional experience comprehends geotechnical characterisation of soils, slope stability analyses, and design in mining and infrastructure projects. In numerical modelling, his expertise is in tailings dams, heap leach pads, tunnels and underground civil works models in static and seismic environments.
+In 2016 I joined the Department of Civil Engineering at Imperial College London. There I completed an MSc in Soil Mechanics and Engineering Seismology and then a PhD in Computational Geomechanics, supervised by Dr Stavroula Kontoe and Prof Lidija Zdravković. My PhD studied the seismic performance of tailings sand dams. I used finite element analyses (ICFEP) with advanced constitutive models, calibrated against monotonic and cyclic laboratory data from copper tailings. From 2022 to 2024 I was a Teaching Fellow in Geotechnics at Imperial, teaching and coordinating undergraduate and MSc modules. Since 2024 I have been back in Chile with WSP.
 
-
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-
-Create content & metadata
+Research interests
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Seismic performance of tailings storage facilities and earth dams
+- Advanced constitutive modelling of tailings and sands (Critical State Soil Mechanics)
+- Finite element and finite difference analysis (ICFEP, PLAXIS, FLAC)
+- Seismic site response and topographic amplification
+- Performance-based design in earthquake geotechnical engineering
+- Filtered and dewatered tailings technologies, including Hydraulic Dewatered Stacking (HDS)
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Recent news
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **2026** – Awarded the **TK Hsieh Prize** (Institution of Civil Engineers) for the Géotechnique paper *"Construction, operation and seismic performance of a tailings sand dam"*.
+- **2026** – New paper in *Soil Dynamics and Earthquake Engineering*: *"The impact of construction method on the seismic response of tailings sand dams"*.
+- **2026** – Associate Editor for the Géotechnique Symposium in Print *"Tailings geotechnics, stability and safety"*.
+- **2026** – Keynote lecture and short course on dynamic analysis of TSFs at the 2nd International Symposium on Tailings Storage Facilities, Hermosillo, Mexico.
+- **2026** – Member of the scientific committee of the 5th International Conference on Performance-Based Design in Earthquake Geotechnical Engineering (PBD-V), Chile.
+- **2026** – Teaching *Geotecnia Sísmica* (MESI14000) in the postgraduate programme at Universidad de los Andes, Chile.
+- **2025** – Co-supervised MSc student N. de la Maza won the **2025 BGA Masters Dissertation Prize**.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Professional memberships
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- British Geotechnical Association (BGA)
+- Chilean Geotechnical Society (SOCHIGE)
+- ISSMGE TC203 (Earthquake Geotechnical Engineering and Associated Problems) – corresponding member
+- ISSMGE TC221 (Tailings and Mine Wastes) – corresponding member
